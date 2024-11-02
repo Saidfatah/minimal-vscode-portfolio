@@ -3,12 +3,6 @@
   "version": "2.0.0",
   "description": "VS Code/Atom One Dark inspired developer portfolio app.",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/caglarturali/caglarturali.github.io"
-  },
-  "homepage": "https://turali.js.org",
-  "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
