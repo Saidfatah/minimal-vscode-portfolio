@@ -1,19 +1,19 @@
 [
   {
     "name": "GitHub",
-    "url": "https://github.com/caglarturali",
+    "url": "https://github.com/Saidfatah",
     "icon": ["fab", "github"],
-    "isMain": false
+    "isMain": true
   },
   {
     "name": "LinkedIn",
-    "url": "https://linkedin.com/in/caglarturali",
+    "url": "https://www.linkedin.com/in/said-fatah-100782163/",
     "icon": ["fab", "linkedin"],
     "isMain": false
   },
   {
-    "name": "goodreads",
-    "url": "https://www.goodreads.com/caglarturali",
+    "name": "stackoverflow",
+    "url": "https://stackoverflow.com/users/13999386/%d8%b3%d8%b9%d9%8a%d8%af",
     "icon": ["fab", "goodreads"],
     "isMain": false
   }

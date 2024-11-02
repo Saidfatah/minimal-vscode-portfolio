@@ -8,171 +8,120 @@
     {
       "name": "1. Semester",
       "dates": {
-        "start": "2022-01-01",
-        "end": "2022-12-31"
+        "start": "2018-01-01",
+        "end": "2018-12-31"
       },
       "courses": [
         {
-          "courseName": "BA 510 Business Foundations",
+          "courseName": "Programming Basics and C Language",
           "sections": [
             {
-              "title": "Business Foundations Specialization",
-              "url": "https://www.coursera.org/specializations/wharton-business-foundations",
+              "title": "OFPPT - Moroccan Vocational Training",
+              "url": "https://www.ofppt.ma/",
               "progress": {
-                "completed": 0,
+                "completed": 6,
                 "total": 6
               }
             }
-          ]
+          ],
+          "description": "Studied programming fundamentals and C language at Moroccan OFPPT, focusing on algorithms and foundational programming concepts for 4 months."
         },
         {
-          "courseName": "BA 513 Entrepreneurship",
+          "courseName": "C# and Desktop Application Development",
           "sections": [
             {
-              "title": "Entrepreneurship Specialization",
-              "url": "https://www.coursera.org/specializations/wharton-entrepreneurship",
+              "title": "Microsoft MVC Framework",
+              "url": "https://dotnet.microsoft.com/apps/aspnet/mvc",
               "progress": {
-                "completed": 0,
-                "total": 5
+                "completed": 6,
+                "total": 6
               }
             }
-          ]
-        },
-        {
-          "courseName": "BA 515 Financial Technology",
-          "sections": [
-            {
-              "title": "Fintech: Foundations & Applications of Financial Technology Specialization",
-              "url": "https://www.coursera.org/specializations/wharton-fintech",
-              "progress": {
-                "completed": 0,
-                "total": 4
-              }
-            }
-          ]
+          ],
+          "description": "Transitioned to C# and desktop application development using Microsoft's MVC framework."
         }
       ]
     },
     {
       "name": "2. Semester",
       "dates": {
-        "start": "2023-01-01",
-        "end": "2023-12-31"
+        "start": "2019-01-01",
+        "end": "2019-12-31"
       },
       "courses": [
         {
-          "courseName": "BA 520 Innovation and Entrepreneurship",
+          "courseName": ".NET Backend Development",
           "sections": [
             {
-              "title": "Innovation and Entrepreneurship Specialization",
-              "url": "https://www.coursera.org/specializations/innovation-entrepreneurship",
+              "title": "Microsoft .NET",
+              "url": "https://dotnet.microsoft.com/",
               "progress": {
-                "completed": 0,
-                "total": 4
+                "completed": 6,
+                "total": 6
               }
             }
-          ]
-        },
-        {
-          "courseName": "BA 523 Social Entrepreneurship",
-          "sections": [
-            {
-              "title": "Social Entrepreneurship Specialization",
-              "url": "https://www.coursera.org/specializations/social-entrepreneurship-cbs",
-              "progress": {
-                "completed": 0,
-                "total": 3
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "BA 525 Startup Entrepreneurship",
-          "sections": [
-            {
-              "title": "Startup Entrepreneurship Specialization",
-              "url": "https://www.coursera.org/specializations/startup-entrepreneurship",
-              "progress": {
-                "completed": 0,
-                "total": 4
-              }
-            }
-          ]
+          ],
+          "description": "Focused on backend development using .NET framework, learning server-side programming and API development."
         }
       ]
     },
     {
       "name": "3. Semester",
       "dates": {
-        "start": "2024-01-01",
-        "end": "2024-12-31"
+        "start": "2020-01-01",
+        "end": "2020-12-31"
       },
       "courses": [
         {
-          "courseName": "BA 530 Practical Applications",
+          "courseName": "JavaScript Fundamentals and Design Patterns",
           "sections": [
             {
-              "title": "How to Start Your Own Business Specialization",
-              "url": "https://www.coursera.org/specializations/start-your-own-business",
+              "title": "OFPPT - Moroccan Vocational Training",
+              "url": "https://www.ofppt.ma/",
               "progress": {
-                "completed": 0,
+                "completed": 6,
                 "total": 6
               }
             }
-          ]
+          ],
+          "description": "Studied JavaScript fundamentals and design patterns, focusing on syntax, code organization, and best practices."
         },
         {
-          "courseName": "BA 533 Tech Entrepreneurship",
+          "courseName": "Front-End Frameworks: React and Angular",
           "sections": [
             {
-              "title": "How to Build a Startup",
-              "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
+              "title": "React and Angular",
+              "url": "https://reactjs.org/",
               "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Product Design",
-              "url": "https://www.udacity.com/course/product-design--ud509",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Rapid Prototyping",
-              "url": "https://www.udacity.com/course/rapid-prototyping--ud723",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "App Monetization",
-              "url": "https://www.udacity.com/course/app-monetization--ud518",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "App Marketing",
-              "url": "https://www.udacity.com/course/app-marketing--ud719",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Get Your Startup Started",
-              "url": "https://www.udacity.com/course/get-your-startup-started--ud806",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "completed": 6,
+                "total": 6
               }
             }
-          ]
+          ],
+          "description": "Learned the basics of React and Angular frameworks, including component-based architecture and state management."
+        }
+      ]
+    },
+    {
+      "name": "4. Semester",
+      "dates": {
+        "start": "2021-01-01",
+        "end": "2021-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "Node.js and Backend Development",
+          "sections": [
+            {
+              "title": "Node.js",
+              "url": "https://nodejs.org/",
+              "progress": {
+                "completed": 6,
+                "total": 6
+              }
+            }
+          ],
+          "description": "Focused on backend development with Node.js, learning server-side programming, RESTful API design, and database integration."
         }
       ]
     }

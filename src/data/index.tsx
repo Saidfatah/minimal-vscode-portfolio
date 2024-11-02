@@ -8,7 +8,6 @@ import staticData from './json/static.json';
 import contactData from './json/contact.json';
 import sweData from './json/swe.json';
 import baData from './json/ba.json';
-import pkg from '../../package.json';
 
 import { calculateDiplomaProgress } from '../utils';
 
@@ -22,7 +21,7 @@ export const pages: PageLink[] = [
       <Greeter
         staticData={staticData}
         contactData={contactData}
-        repoUrl={pkg.repository.url}
+        repoUrl="https://github.com/Saidfatah/minimal-vscode-portfolio"
       />
     ),
   },
